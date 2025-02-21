@@ -1,6 +1,6 @@
 # Mangapp Baca Manga Gratis Tanpa Iklan
 
-Aplikasi ini dibuat untuk membaca komik Manga,Mahua dan Manhwa gratis tanpa iklan selamanya, tersedia dalam Android,IOS,MacOS dan Website ([https://mangapp.me](https://mangapp.me)).
+Aplikasi ini dibuat untuk membaca komik Manga,Mahua dan Manhwa gratis tanpa iklan selamanya, tersedia dalam Android,IOS,MacOS dan Website ([https://mangapp.my.id](https://mangapp.my.id/)).
 
 Untuk cek release version, sekarang pindah ke : [https://github.com/manggap/mangapp_public/releases/](https://github.com/manggap/mangapp_public/releases/)
 
